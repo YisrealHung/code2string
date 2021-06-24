@@ -4,3 +4,8 @@
 <p align="center">
   <img src="https://github.com/YisrealHung/code2string/blob/main/album/01.PNG" width="800"/>
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/YisrealHung/code2string/blob/main/album/02.PNG" width="800"/>
+</p>
