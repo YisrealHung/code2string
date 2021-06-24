@@ -52,12 +52,25 @@
             </tr>
           </table>
         </th>
+        <th>
+          <table>
+            <tr>
+              <th><input type="button" onclick="copyText()" value="copy text"></th>
+            </tr>
+          </table>
+        <th>
       </tr>
     </table>
   </div>
   <script type="text/javascript">
     document.getElementById("inCcode").value = "Enter C++";
     document.getElementById("outText").value = "Input text";
+    function copyText() {
+      let z = document.getElementById("outText");
+      z.select();
+      document.execCommand("Copy");
+      alert("已複製至剪貼簿");
+    }
     function transforme() {
       let x = document.getElementById("inCcode").value;
       let outtext = "\"";
