@@ -7,5 +7,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/YisrealHung/code2string/blob/main/album/02.PNG" width="800"/>
+  <img src="https://github.com/YisrealHung/code2string/blob/main/album/02.png" width="800"/>
 </p>
